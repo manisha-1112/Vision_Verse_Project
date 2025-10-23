@@ -1,5 +1,5 @@
 # VisionVerse – Image Processing Project
-# Electrical Engineers’ Association | IIT Kanpur
+## Electrical Engineers’ Association | IIT Kanpur
 
 ## Overview
 - VisionVerse is an image processing project developed under the Electrical Engineers’ Association at IIT Kanpur.
