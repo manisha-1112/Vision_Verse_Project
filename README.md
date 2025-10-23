@@ -56,16 +56,6 @@
 - NumPy
 - Matplotlib
 
-##  Repository Structure
-.
-├── Assignment1.ipynb        # Basic filtering techniques
-├── Assignment2.ipynb        # Edge detection implementations
-├── Assignment3.ipynb        # Hough transforms and visualization
-├── Assignment4.ipynb        # Image segmentation using K-Means & Otsu
-├── Assignment5.ipynb        # Combined project pipeline
-├── README.md                # Project documentation
-└── sample_images/           # Example input and output images
-
 ##  Summary
 - Developed a complete classical computer vision pipeline for denoising, edge detection, and segmentation.
 - Implemented and compared multiple algorithms to understand trade-offs between accuracy, sharpness, and noise control.
